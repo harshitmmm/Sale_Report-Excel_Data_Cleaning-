@@ -4,36 +4,34 @@ This project focuses on **data cleaning, transformation, and analysis using Micr
 
  Dataset Overview
 The dataset includes the following columns:
-- `Car_Name`
-- `Year`
-- `Selling_Price`
-- `Present_Price`
-- `Kms_Driven`
-- `Fuel_Type`
-- `Seller_Type`
-- `Transmission`
-- `Owner`
+- Car_Name
+- Year
+- Selling_Price
+- Present_Price
+- Kms_Driven
+- Seller_Type
+- Transmission
 
 🛠️ Tasks Performed
 
 ✅ Data Cleaning
-- Remove Duplicates: Ensured uniqueness of records.
+- Remove duplicates: Ensure the uniqueness of records.
 - Handle Missing Values: Filled or highlighted NULL/blank entries using formulas or logical assumptions.
-- Standardize Text: Used functions like `TRIM()`, `PROPER()`, and `LOWER()` to fix inconsistent formatting.
+- Standardize Text: Used functions like TRIM(), PROPER(), and LOWER() to fix inconsistent formatting.
 - Split Columns: Separated brand and model names where applicable.
 - Correct Data Types: Converted columns to the appropriate formats (e.g., numbers, dates, currency).
 
 
 🔄 Data Transformation
-- Created Derived Columns: Added columns like `Car_Age = Current Year - Year`.
-- Used Conditional Formatting: Highlighted outliers in `Selling_Price` or `Mileage`.
-- Applied Data Validation: Restricted input values for `Fuel_Type`, `Transmission`, etc., to dropdown lists.
-- Filtered & Sorted Data: For easy insights and dashboard preparation.
+- Created Derived Columns: Added columns like Car_Age = Current Year - Year.
+- Used Conditional Formatting: Highlighted outliers in selling_Price or Mileage.
+- Applied Data Validation: Restricted input values for Fuel_Type, Transmission, etc., to dropdown lists.
+- Filtered & Sorted Data: This is for easy insights and dashboard preparation.
 
 
 
  🔍 Tools Used
-- Microsoft Excel (Functions, Pivot Tables, Charts, Power Query)
+- Microsoft Excel (Functions, Power Query)
 - Git & GitHub for version control
 
 
