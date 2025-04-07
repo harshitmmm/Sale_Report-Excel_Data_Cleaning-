@@ -11,7 +11,6 @@ The dataset includes the following columns:
 - Year
 - Selling_Price
 - mmr
-- Kms_Driven
 - Seller_Type
 - Transmission
 
