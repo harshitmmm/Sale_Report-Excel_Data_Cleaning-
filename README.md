@@ -1,4 +1,7 @@
- 🚗 Car Sales Data Cleaning and Analysis
+The "Vehicle Sales and Market Trends Dataset" provides a comprehensive collection of information pertaining to the sales transactions of various vehicles. This dataset encompasses details such as the year, make, model, trim, body type, transmission type, VIN (Vehicle Identification Number), state of registration, condition rating, odometer reading, exterior and interior colors, seller information, Manheim Market Report (MMR) values, selling prices, and sale dates.
+
+
+🚗 Car Sales Data Cleaning and Analysis
 
 This project focuses on **data cleaning, transformation, and analysis using Microsoft Excel. The dataset contains car sales information, and it goes through multiple steps to ensure accuracy, consistency, and readiness for further analysis or visualization.
 
@@ -7,7 +10,7 @@ The dataset includes the following columns:
 - Car_Name
 - Year
 - Selling_Price
-- Present_Price
+- mmr
 - Kms_Driven
 - Seller_Type
 - Transmission
@@ -25,7 +28,7 @@ The dataset includes the following columns:
 🔄 Data Transformation
 - Created Derived Columns: Added columns like Car_Age = Current Year - Year.
 - Used Conditional Formatting: Highlighted outliers in selling_Price or Mileage.
-- Applied Data Validation: Restricted input values for Fuel_Type, Transmission, etc., to dropdown lists.
+- Applied Data Validation: Restricted input values for Transmission etc., to dropdown lists.
 - Filtered & Sorted Data: This is for easy insights and dashboard preparation.
 
 
