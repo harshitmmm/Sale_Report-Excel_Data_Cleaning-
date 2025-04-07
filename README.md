@@ -27,7 +27,6 @@ The dataset includes the following columns:
 
 🔄 Data Transformation
 - Created Derived Columns: Added columns like Car_Age = Current Year - Year.
-- Used Conditional Formatting: Highlighted outliers in selling_Price or Mileage.
 - Applied Data Validation: Restricted input values for Transmission etc., to dropdown lists.
 - Filtered & Sorted Data: This is for easy insights and dashboard preparation.
 
@@ -41,5 +40,4 @@ The dataset includes the following columns:
 📈 Key Insights (Sample)
 Manual cars with petrol engines dominate sales.
 Dealers sell newer cars with lower mileage at higher prices.
-Outliers in price data were due to inconsistent units or missing values.
 
