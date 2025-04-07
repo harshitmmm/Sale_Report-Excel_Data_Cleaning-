@@ -3,7 +3,7 @@ The "Vehicle Sales and Market Trends Dataset" provides a comprehensive collectio
 
 🚗 Car Sales Data Cleaning and Analysis
 
-This project focuses on **data cleaning, transformation, and analysis using Microsoft Excel. The dataset contains car sales information, and it goes through multiple steps to ensure accuracy, consistency, and readiness for further analysis or visualization.
+This project focuses on data cleaning, transformation, and analysis using Microsoft Excel. The dataset contains car sales information, and it goes through multiple steps to ensure accuracy, consistency, and readiness for further analysis or visualization.
 
  Dataset Overview
 The dataset includes the following columns:
